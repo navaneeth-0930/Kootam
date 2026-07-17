@@ -384,9 +384,6 @@ This project is developed for educational purposes.
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code."
-
-**— John Johnson**
 
 Built with ❤️ using Java
 
